@@ -1,0 +1,58 @@
+
+h1{
+    color: rgb(208, 142, 95);
+    
+}
+h2{
+    color: rgb(208, 142, 95); 
+}
+
+.first-class{
+
+    margin-left: 10px;
+    text-decoration: none;
+
+}
+.first-class img{
+    height:10vh;
+    width: 8vw;
+}
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+nav{
+    display: flex;
+    text-decoration: none;
+    gap: 30px;
+    margin-right: 60px;
+    text-transform: uppercase;
+}
+nav a{
+    text-decoration: none;
+    color: blueviolet;
+}
+.mid {
+height: 80vh;
+width: 88vw;
+}
+.section-two{
+    display: flex;
+    justify-content: space-around;
+}
+.side img{
+    height: 16vh;
+    width: 20vw;
+}
+.left img{
+    
+height: 70vh;
+width: 65vw;
+}
+   p{
+
+      color: rgb(170, 170, 240);
+   }
